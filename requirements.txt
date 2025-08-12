@@ -4,3 +4,4 @@ together
 langchain-community
 streamlit
 python-dotenv
+langchain-together
