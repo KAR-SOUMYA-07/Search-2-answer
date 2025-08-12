@@ -1,0 +1,6 @@
+langchain
+requests
+together
+langchain-community
+streamlit
+python-dotenv
